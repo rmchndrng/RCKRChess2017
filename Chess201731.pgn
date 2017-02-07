@@ -1,6 +1,6 @@
 [Event "CHESS 2017"]
 [Site "chess.com IND"]
-[Date "2017.01.13"]
+[Date "2017.02.07"]
 [Round "1"]
 [White "Ajay"]
 [Black "Ninto"]
@@ -14,10 +14,10 @@
 
 [Event "CHESS 2017"]
 [Site "chess.com IND"]
-[Date "2017.01.13"]
+[Date "2017.02.07"]
 [Round "1"]
-[White "Rajeev"]
-[Black "Akhil"]
+[White "Akhil"]
+[Black "Appu"]
 [Result "*"]
 [WhiteElo "0"]
 [BlackElo "0"]
@@ -28,21 +28,7 @@
 
 [Event "CHESS 2017"]
 [Site "chess.com IND"]
-[Date "2017.01.13"]
-[Round "1"]
-[White "Appu"]
-[Black "Rajesh"]
-[Result "*"]
-[WhiteElo "0"]
-[BlackElo "0"]
-[PlyCount "0"]
-[EventDate "2017.01.16"]
-[SourceDate ""]
- * 
-
-[Event "CHESS 2017"]
-[Site "chess.com IND"]
-[Date "2017.01.13"]
+[Date "2017.02.07"]
 [Round "1"]
 [White "Ram"]
 [Black "Ashif"]
@@ -56,7 +42,7 @@
 
 [Event "CHESS 2017"]
 [Site "chess.com IND"]
-[Date "2017.01.13"]
+[Date "2017.02.07"]
 [Round "1"]
 [White "Aswin"]
 [Black "Sachin"]
@@ -70,7 +56,7 @@
 
 [Event "CHESS 2017"]
 [Site "chess.com IND"]
-[Date "2017.01.13"]
+[Date "2017.02.07"]
 [Round "1"]
 [White "Sajith"]
 [Black "Lokesh"]
@@ -84,7 +70,7 @@
 
 [Event "CHESS 2017"]
 [Site "chess.com IND"]
-[Date "2017.01.13"]
+[Date "2017.02.07"]
 [Round "1"]
 [White "Manu"]
 [Black "Santhosh"]
@@ -98,7 +84,7 @@
 
 [Event "CHESS 2017"]
 [Site "chess.com IND"]
-[Date "2017.01.13"]
+[Date "2017.02.07"]
 [Round "1"]
 [White "Sarath"]
 [Black "Mridul"]
@@ -112,7 +98,7 @@
 
 [Event "CHESS 2017"]
 [Site "chess.com IND"]
-[Date "2017.01.13"]
+[Date "2017.02.07"]
 [Round "1"]
 [White "Nataraj"]
 [Black "Sudheesh"]
@@ -126,7 +112,7 @@
 
 [Event "CHESS 2017"]
 [Site "chess.com IND"]
-[Date "2017.01.13"]
+[Date "2017.02.07"]
 [Round "1"]
 [White "Sumod"]
 [Black "Navaneeth"]
